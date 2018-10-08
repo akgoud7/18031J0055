@@ -1,0 +1,13 @@
+Akshay<18031J0055>
+
+
+1. 10010
+2. deepak
+3. d,e
+4. 3 components
+5. 1st iteration-1,2nd iteration-1,3rd iteration-0
+6. 2log(N)
+7. N
+8. N,N
+9. N^2
+10. 4components
